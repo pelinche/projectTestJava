@@ -30,10 +30,16 @@ public class Program {
         //matriz2();
 
         //dataJava1();
-        dataJava2();
+        //dataJava2();
+        testeGitHub();
 
 
 
+
+    }
+
+    public static void testeGitHub(){
+        System.out.println("Log");
     }
 
     public static void dataJava2(){
